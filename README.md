@@ -26,3 +26,4 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/30183177/134824537-1ad5ac8c-2e60-485f-a674-3f6eff799d10.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/30183177/134911861-856d67ff-2c91-46c4-b5ea-8d13135ba5f2.gif)
