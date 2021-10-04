@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *TweetMe*
 
 **TweetMe** is a basic twitter app to read your tweets.
 
@@ -26,8 +26,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/30183177/135790360-770427be-8c20-47e9-ba96-35de89d2b58c.gif)
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/30183177/135761013-7b90d7ea-5867-4eb5-879d-4341098a428b.gif)
 
 Time spent: **X** hours spent in total
 
